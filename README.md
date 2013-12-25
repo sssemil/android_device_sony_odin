@@ -16,4 +16,4 @@ Battery | 2370 mAh
 Display | 1080 x 1920 pixels, 5.0 inches
 Camera  | 13MPx, LED Flash
 
-This branch is for building 4.3 AOSP based ROMS.
+This branch is for building 4.1 AOSP based ROMS.
